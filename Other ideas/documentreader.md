@@ -1,1 +1,1 @@
-soemthign that could take like 50 page doucmentation on parts and use that mainly as the context for coding advice
+Something that could take like 50 page documentation on API, devices, drivers, whatever and use that mainly as the context for coding advice
